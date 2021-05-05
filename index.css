@@ -1,0 +1,42 @@
+body {
+	background-color:#cfccff;
+	}
+h1 {
+	text-align: center;
+	font-family: Helvetica;
+	color: #0000ff;
+}
+p {
+	margin-right: 2cm;
+	margin-left: 2cm;
+	text-align: justify;
+}
+img {
+	display: block; margin: auto;
+}
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	margin: auto;
+	color: #5288b3;
+}
+th, td {
+	padding: 10px;
+	text-align: left;
+}
+th {
+	background-color: #cfccff
+}
+td {
+	background-color: #cfccff
+}
+h2 {
+	text-align: center;
+	font-size: 20pt;
+	color: 	#708090;
+}
+p {
+	margin-right: 2cm;
+	margin-left: 2cm;
+	text-align: justify;
+}
