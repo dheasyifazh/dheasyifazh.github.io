@@ -1,0 +1,47 @@
+h1 {
+  text-align: center;
+  color: slategrey;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+  padding-top: 2rem;
+}
+h4 {
+  text-align: left;
+  margin-left: 5rem;
+}
+#Gallery {
+  background-color: whitesmoke;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ccdfff;
+  text-align: center;
+}
+#Profile {
+  text-align: center;
+}
+table,
+th,
+td {
+  border: 1px solid transparent;
+  border-collapse: collapse;
+  margin-left: none;
+}
+th,
+td {
+  padding: 2px;
+  text-align: left;
+}
+img {
+  padding-bottom: 1rem;
+}
+#Story {
+  background-color: #ccdfff;
+}
+section {
+  padding-top: 5rem;
+}
